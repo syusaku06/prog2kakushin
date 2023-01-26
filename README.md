@@ -4,5 +4,5 @@
 
 ## プログラム一覧
 -[work1](https://github.com/syusaku06/prog2kakushin/blob/main/work1.ipynb)
--[work2](
+-[work2](https://github.com/syusaku06/prog2kakushin/blob/main/work2.ipynb)
 -[work3](
